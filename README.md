@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thalitaak
 - 👀 I’m interested in mobile and web development
-- 🌱 I’m currently learning C, CSS, HTML, Javascript, PHP and SQL
+- 🌱 I’m currently learning C, CSS, HTML, Javascript
 
 <!---
 thalitaak/thalitaak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
